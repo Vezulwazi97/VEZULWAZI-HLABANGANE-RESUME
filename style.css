@@ -3,7 +3,7 @@
 
 :root{
 
---primary:#4F46E5;
+--primary:#2525ce;
 --secondary:#06B6D4;
 --accent:#22C55E;
 
@@ -36,7 +36,7 @@ scroll-behavior:smooth;
 
 body{
 
-background:linear-gradient(-45deg,#0f172a,#1e3a8a,#111827,#0f172a);
+background:linear-gradient(-45deg,#0f172a,#5f6061,#111827,#0f172a);
 background-size:400% 400%;
 animation:gradientMove 15s ease infinite;
 
