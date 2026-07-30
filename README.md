@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a responsive personal portfolio website developed using HTML, CSS, and JavaScript. The website serves as an online CV, showcasing my education, technical skills, projects, and contact information in a modern and interactive format.
+This project is a responsive personal portfolio website developed using HTML and CSS. The website serves as an online CV, showcasing my education, technical skills, projects, and contact information in a modern and interactive format.
 
 The portfolio was designed to provide potential employers and collaborators with an overview of my background, experience, and software development skills while demonstrating my front-end web development abilities.
 
